@@ -258,7 +258,7 @@ export function Post(){
 
 <div className="legend">
      <p>
-         <span>ronaldo</span> RECEBA !!
+         <span>luvadepedreiro</span> RECEBA !!
 
      </p>
      </div>
